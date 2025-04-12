@@ -1,7 +1,7 @@
 
 # 🏛️ Ethical Reasoning with LLMs: ChatGPT-4o vs Qwen 2.5
 
-This repository benchmarks **two large language models** — **ChatGPT-4o** and **Qwen 2.5-VL-32B** — on the [ETHICS dataset](https://github.com/hendrycks/ethics), a diverse benchmark comprising moral reasoning questions across five categories: **Commonsense**, **Deontology**, **Justice**, and **Virtue**.
+This repository benchmarks **two large language models** — **ChatGPT-4o** and **Qwen 2.5-VL-32B** — on the [ETHICS dataset](https://github.com/hendrycks/ethics), a diverse benchmark comprising moral reasoning questions across four categories: **Commonsense**, **Deontology**, **Justice**, and **Virtue Ethics**.
 
 The [original ETHICS paper](https://arxiv.org/pdf/2008.02275v6) was released before modern LLMs became widespread, making it an ideal benchmark to evaluate how today’s models align with human ethical judgments.
 
