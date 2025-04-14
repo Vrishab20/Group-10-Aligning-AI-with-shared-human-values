@@ -26,6 +26,7 @@ The [original ETHICS paper](https://arxiv.org/pdf/2008.02275v6) was released bef
 | `qwen.ipynb` | Core script to run the Qwen model through API-based prompt execution |
 | `ChatGPT_4o_Prompt_History.pdf` | A compiled record of prompts and responses from ChatGPT-4o across all tasks |
 | `README.md` | Overview of the project, goals, methodology, and instructions |
+| `Notion_Template.Zip` | Notion Template Highlighting our Project |
 
 ---
 
